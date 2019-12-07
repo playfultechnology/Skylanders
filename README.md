@@ -12,3 +12,6 @@ C6
 
 R1 = 100o
 R2 = 100o
+
+## Image
+![Skylanders tag](https://github.com/playfultechnology/Skylanders/blob/master/Skylanders.png)
