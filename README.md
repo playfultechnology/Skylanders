@@ -2,16 +2,17 @@
 Reverse-engineering and remixing the technology behind "Skylanders" figures
 
 ## BOM
-D1 WV4 25 Schottky Diode
-
+### Diodes
+D1, D6 WV4 25 Schottky Diode
+### Capacitors
 C1
 C2
 C3
 C4
 C6
-
-R1 = 100o
-R2 = 100o
+### Resistors
+R1 = 100ohm
+R2 = 100ohm
 
 ## Image
 ![Skylanders tag](https://github.com/playfultechnology/Skylanders/blob/master/Skylanders.png)
