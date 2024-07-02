@@ -17,6 +17,8 @@ C6
 ### Resistors
 R1 = 100ohm
 R2 = 100ohm
+### NFC chip
+This is the small black square positioned directly on the antenna, to the left of the PCB in the image below.
 
 ## Image
 ![Skylanders tag](https://github.com/playfultechnology/Skylanders/blob/master/Skylanders.png)
